@@ -1,4 +1,3 @@
-
 # Buffer.
 
 Package go-disk-buffer provides an io.Writer as a 1:N on-disk buffer, publishing
